@@ -26,8 +26,6 @@ File used: `AB_NYC_2019.csv`
 pip install -r requirements.txt
 ```
 
-(If you set up your own environment instead, regenerate this file with: `pip freeze > requirements.txt`)
-
 ### 2. Get the dataset
 
 Download `AB_NYC_2019.csv` from the [Kaggle dataset page](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) and place it in the same folder as `data_workflow.ipynb`.
