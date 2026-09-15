@@ -1,5 +1,7 @@
 # MSc in AI Capstone #1: AI Programming Foundations Project
 
+**Repository:** https://github.com/PHIacademy/ai-programming-foundations-project
+
 ## Project Description
 
 This project builds a complete, reproducible data workflow around the NYC Airbnb Open Data dataset. It loads the raw listing data, cleans it, explores pricing and availability patterns,
